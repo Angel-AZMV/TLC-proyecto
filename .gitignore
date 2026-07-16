@@ -1,0 +1,22 @@
+# Datos pesados — no se suben
+data/bronze/
+data/silver/
+data/gold/
+*.parquet
+
+# Archivos de sistema/entorno — nunca deben subirse
+.cache/
+.conda/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.bash_logout
+.bashrc
+.profile
+.wget-hsts
+
+# Basura de Jupyter/Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
