@@ -1,0 +1,7 @@
+# Dependencias extra sobre la imagen base jupyter/pyspark-notebook
+# Instalar dentro del contenedor: pip install -r requirements.txt --break-system-packages
+prophet==1.3.0
+cmdstanpy==1.3.0
+duckdb==1.5.4
+pandas==2.0.3
+scikit-learn==1.3.1
