@@ -22,13 +22,14 @@ def _duracion_min_expr():
 
 
 def filtro_yellow_green() -> "F.Column":
-    """Reglas comunes para Yellow y Green Taxi (tienen tarifa y distancia)."""
     dur = _duracion_min_expr()
-
+    fare_valido = (
+        (F.col("fare_amount") >= 0) |
+        ((F.col("fare_amount") < 0) & (F.col("payment_type").isin(*PAYMENT_TYPES_VALIDOS_NEGATIVO)))
+    )
     return (
-        ~((F.col("fare_amount") < 0) & (F.col("payment_type").isin(*PAYMENT_TYPES_ERROR_NEGATIVO)))
+        fare_valido
         & (F.col("fare_amount") <= UMBRALES["fare_amount_max"])
-        & (F.col("fare_amount") >= 0)
         & ~((F.col("trip_distance") <= 0) & (dur > UMBRALES["gps_check_duracion_min"]))
         & (F.col("trip_distance") <= UMBRALES["trip_distance_max_taxi"])
         & (dur >= UMBRALES["duracion_min_min"])

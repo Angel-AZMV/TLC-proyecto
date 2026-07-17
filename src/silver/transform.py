@@ -78,7 +78,7 @@ def _procesar_generico(spark: SparkSession, tipo: str, anio: int, mes: int, filt
 
     _registrar_auditoria(tipo, anio, mes, filas_entrada, filas_salida)
     log.info(f"[OK] {tipo} {anio}-{mes:02d}: {filas_entrada:,} -> {filas_salida:,} filas")
-t
+
 
 def procesar_yellow(spark: SparkSession, anio: int, mes: int):
     _procesar_generico(spark, "yellow", anio, mes, filtro_extra=filtro_yellow_green())

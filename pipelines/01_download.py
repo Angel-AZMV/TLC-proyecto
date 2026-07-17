@@ -17,13 +17,13 @@ DATASET_TYPES = {
     "fhvhv":  "fhvhv_tripdata",
 }
 
-DEFAULT_YEARS = [2023, 2024, 2025]
+DEFAULT_YEARS = [2023, 2024, 2025,2026]
 
 MONTHS_PER_YEAR = {
     2023: list(range(1, 13)),
     2024: list(range(1, 13)),
     2025: list(range(1, 13)),
-    # 2026: None,
+    2026: list(range(1, 6)),
 }
 
 BRONZE_PATH = Path("/home/jovyan/data/bronze")

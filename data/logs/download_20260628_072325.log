@@ -1,0 +1,49 @@
+2026-06-28 07:23:25,682 [INFO] Anos a descargar: [2023, 2024, 2025]
+2026-06-28 07:23:25,682 [INFO] Tipos: ['fhvhv']
+2026-06-28 07:23:25,683 [INFO] Destino: /home/jovyan/data/bronze
+2026-06-28 07:23:25,683 [INFO] Total archivos a procesar: 36
+2026-06-28 07:23:25,684 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-01.parquet
+2026-06-28 07:23:25,685 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-03.parquet
+2026-06-28 07:23:25,686 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-02.parquet
+2026-06-28 07:23:25,688 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-05.parquet
+2026-06-28 07:23:25,689 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-04.parquet
+2026-06-28 07:23:25,690 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-06.parquet
+2026-06-28 07:23:25,691 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-07.parquet
+2026-06-28 07:23:25,691 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-08.parquet
+2026-06-28 07:23:25,692 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-09.parquet
+2026-06-28 07:23:25,693 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-10.parquet
+2026-06-28 07:23:25,694 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-11.parquet
+2026-06-28 07:23:25,695 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-12.parquet
+2026-06-28 07:23:25,695 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-01.parquet
+2026-06-28 07:23:25,696 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-02.parquet
+2026-06-28 07:23:25,697 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-03.parquet
+2026-06-28 07:23:25,698 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-04.parquet
+2026-06-28 07:23:25,699 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-05.parquet
+2026-06-28 07:23:25,700 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-06.parquet
+2026-06-28 07:23:25,700 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-07.parquet
+2026-06-28 07:23:25,700 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-08.parquet
+2026-06-28 07:23:25,702 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-09.parquet
+2026-06-28 07:23:25,703 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-11.parquet
+2026-06-28 07:23:25,703 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-10.parquet
+2026-06-28 07:23:25,704 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-12.parquet
+2026-06-28 07:23:25,713 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-01.parquet
+2026-06-28 07:23:25,713 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-02.parquet
+2026-06-28 07:23:25,713 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-03.parquet
+2026-06-28 07:23:25,714 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-04.parquet
+2026-06-28 07:23:25,715 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-05.parquet
+2026-06-28 07:23:25,715 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-07.parquet
+2026-06-28 07:23:25,716 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-06.parquet
+2026-06-28 07:23:25,717 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-08.parquet
+2026-06-28 07:23:25,717 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-09.parquet
+2026-06-28 07:23:25,719 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-10.parquet
+2026-06-28 07:23:25,719 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-11.parquet
+2026-06-28 07:23:25,720 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-12.parquet
+2026-06-28 07:24:50,364 [INFO] [OK]   fhvhv_tripdata_2024-05.parquet -> 475.5 MB en 84.7s
+2026-06-28 07:24:50,366 [INFO] ==================================================
+2026-06-28 07:24:50,366 [INFO]   OK:          1
+2026-06-28 07:24:50,366 [INFO]   Ya existian: 35
+2026-06-28 07:24:50,366 [INFO]   No publicados: 0
+2026-06-28 07:24:50,367 [INFO]   Timeouts:    0
+2026-06-28 07:24:50,367 [INFO]   Errores:     0
+2026-06-28 07:24:50,367 [INFO]   Total MB:    475.5
+2026-06-28 07:24:50,367 [INFO] ==================================================

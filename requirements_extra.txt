@@ -1,0 +1,5 @@
+cmdstanpy==1.3.0
+duckdb==1.5.4
+pandas @ file:///home/conda/feedstock_root/build_artifacts/pandas_1688740512823/work
+prophet==1.3.0
+scikit-learn @ file:///home/conda/feedstock_root/build_artifacts/scikit-learn_1696574834166/work

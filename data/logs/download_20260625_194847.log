@@ -1,0 +1,84 @@
+2026-06-25 19:48:47,819 [INFO] Anos a descargar: [2023, 2024, 2025]
+2026-06-25 19:48:47,819 [INFO] Tipos: ['green']
+2026-06-25 19:48:47,819 [INFO] Destino: /home/jovyan/data/bronze
+2026-06-25 19:48:47,819 [INFO] Total archivos a procesar: 36
+2026-06-25 19:48:47,827 [INFO] [DOWN] Descargando: green_tripdata_2023-02.parquet
+2026-06-25 19:48:47,828 [INFO] [DOWN] Descargando: green_tripdata_2023-01.parquet
+2026-06-25 19:48:47,828 [INFO] [DOWN] Descargando: green_tripdata_2023-04.parquet
+2026-06-25 19:48:47,828 [INFO] [DOWN] Descargando: green_tripdata_2023-03.parquet
+2026-06-25 19:48:48,274 [INFO] [OK]   green_tripdata_2023-01.parquet -> 1.4 MB en 0.4s
+2026-06-25 19:48:48,276 [INFO] [DOWN] Descargando: green_tripdata_2023-05.parquet
+2026-06-25 19:48:49,147 [INFO] [OK]   green_tripdata_2023-02.parquet -> 1.5 MB en 1.3s
+2026-06-25 19:48:49,149 [INFO] [DOWN] Descargando: green_tripdata_2023-06.parquet
+2026-06-25 19:48:49,403 [INFO] [OK]   green_tripdata_2023-03.parquet -> 1.7 MB en 1.6s
+2026-06-25 19:48:49,406 [INFO] [DOWN] Descargando: green_tripdata_2023-07.parquet
+2026-06-25 19:48:49,649 [INFO] [OK]   green_tripdata_2023-04.parquet -> 1.5 MB en 1.8s
+2026-06-25 19:48:49,651 [INFO] [DOWN] Descargando: green_tripdata_2023-08.parquet
+2026-06-25 19:48:50,087 [INFO] [OK]   green_tripdata_2023-05.parquet -> 1.6 MB en 1.8s
+2026-06-25 19:48:50,090 [INFO] [DOWN] Descargando: green_tripdata_2023-09.parquet
+2026-06-25 19:48:50,340 [INFO] [OK]   green_tripdata_2023-06.parquet -> 1.5 MB en 1.2s
+2026-06-25 19:48:50,343 [INFO] [DOWN] Descargando: green_tripdata_2023-10.parquet
+2026-06-25 19:48:51,026 [INFO] [OK]   green_tripdata_2023-07.parquet -> 1.4 MB en 1.6s
+2026-06-25 19:48:51,028 [INFO] [DOWN] Descargando: green_tripdata_2023-11.parquet
+2026-06-25 19:48:51,321 [INFO] [OK]   green_tripdata_2023-09.parquet -> 1.5 MB en 1.2s
+2026-06-25 19:48:51,327 [INFO] [DOWN] Descargando: green_tripdata_2023-12.parquet
+2026-06-25 19:48:51,402 [INFO] [OK]   green_tripdata_2023-08.parquet -> 1.4 MB en 1.8s
+2026-06-25 19:48:51,406 [INFO] [DOWN] Descargando: green_tripdata_2024-01.parquet
+2026-06-25 19:48:51,647 [INFO] [OK]   green_tripdata_2023-10.parquet -> 1.5 MB en 1.3s
+2026-06-25 19:48:51,649 [INFO] [DOWN] Descargando: green_tripdata_2024-02.parquet
+2026-06-25 19:48:52,234 [INFO] [OK]   green_tripdata_2023-11.parquet -> 1.5 MB en 1.2s
+2026-06-25 19:48:52,238 [INFO] [DOWN] Descargando: green_tripdata_2024-03.parquet
+2026-06-25 19:48:52,596 [INFO] [OK]   green_tripdata_2024-01.parquet -> 1.3 MB en 1.2s
+2026-06-25 19:48:52,599 [INFO] [DOWN] Descargando: green_tripdata_2024-04.parquet
+2026-06-25 19:48:52,848 [INFO] [OK]   green_tripdata_2024-02.parquet -> 1.2 MB en 1.2s
+2026-06-25 19:48:52,854 [INFO] [DOWN] Descargando: green_tripdata_2024-05.parquet
+2026-06-25 19:48:53,065 [INFO] [OK]   green_tripdata_2023-12.parquet -> 1.5 MB en 1.7s
+2026-06-25 19:48:53,068 [INFO] [DOWN] Descargando: green_tripdata_2024-06.parquet
+2026-06-25 19:48:53,754 [INFO] [OK]   green_tripdata_2024-04.parquet -> 1.3 MB en 1.2s
+2026-06-25 19:48:53,756 [INFO] [DOWN] Descargando: green_tripdata_2024-07.parquet
+2026-06-25 19:48:54,138 [INFO] [OK]   green_tripdata_2024-03.parquet -> 1.3 MB en 1.9s
+2026-06-25 19:48:54,141 [INFO] [DOWN] Descargando: green_tripdata_2024-08.parquet
+2026-06-25 19:48:54,667 [INFO] [OK]   green_tripdata_2024-05.parquet -> 1.4 MB en 1.8s
+2026-06-25 19:48:54,670 [INFO] [DOWN] Descargando: green_tripdata_2024-09.parquet
+2026-06-25 19:48:54,974 [INFO] [OK]   green_tripdata_2024-07.parquet -> 1.2 MB en 1.2s
+2026-06-25 19:48:54,977 [INFO] [DOWN] Descargando: green_tripdata_2024-10.parquet
+2026-06-25 19:48:54,995 [INFO] [OK]   green_tripdata_2024-06.parquet -> 1.3 MB en 1.9s
+2026-06-25 19:48:54,999 [INFO] [DOWN] Descargando: green_tripdata_2024-11.parquet
+2026-06-25 19:48:55,389 [INFO] [OK]   green_tripdata_2024-08.parquet -> 1.2 MB en 1.2s
+2026-06-25 19:48:55,392 [INFO] [DOWN] Descargando: green_tripdata_2024-12.parquet
+2026-06-25 19:48:55,904 [INFO] [OK]   green_tripdata_2024-09.parquet -> 1.3 MB en 1.2s
+2026-06-25 19:48:55,909 [INFO] [DOWN] Descargando: green_tripdata_2025-01.parquet
+2026-06-25 19:48:56,094 [INFO] [OK]   green_tripdata_2024-10.parquet -> 1.3 MB en 1.1s
+2026-06-25 19:48:56,097 [INFO] [DOWN] Descargando: green_tripdata_2025-02.parquet
+2026-06-25 19:48:56,802 [INFO] [OK]   green_tripdata_2024-11.parquet -> 1.2 MB en 1.8s
+2026-06-25 19:48:56,804 [INFO] [DOWN] Descargando: green_tripdata_2025-03.parquet
+2026-06-25 19:48:57,058 [INFO] [OK]   green_tripdata_2025-01.parquet -> 1.1 MB en 1.1s
+2026-06-25 19:48:57,061 [INFO] [DOWN] Descargando: green_tripdata_2025-04.parquet
+2026-06-25 19:48:57,230 [INFO] [OK]   green_tripdata_2024-12.parquet -> 1.3 MB en 1.8s
+2026-06-25 19:48:57,231 [INFO] [DOWN] Descargando: green_tripdata_2025-05.parquet
+2026-06-25 19:48:57,768 [INFO] [OK]   green_tripdata_2025-02.parquet -> 1.1 MB en 1.7s
+2026-06-25 19:48:57,770 [INFO] [DOWN] Descargando: green_tripdata_2025-06.parquet
+2026-06-25 19:48:58,010 [INFO] [OK]   green_tripdata_2025-03.parquet -> 1.2 MB en 1.2s
+2026-06-25 19:48:58,012 [INFO] [DOWN] Descargando: green_tripdata_2025-07.parquet
+2026-06-25 19:48:58,363 [INFO] [OK]   green_tripdata_2025-05.parquet -> 1.3 MB en 1.1s
+2026-06-25 19:48:58,366 [INFO] [DOWN] Descargando: green_tripdata_2025-08.parquet
+2026-06-25 19:48:58,993 [INFO] [OK]   green_tripdata_2025-04.parquet -> 1.2 MB en 1.9s
+2026-06-25 19:48:58,996 [INFO] [DOWN] Descargando: green_tripdata_2025-09.parquet
+2026-06-25 19:48:59,032 [INFO] [OK]   green_tripdata_2025-06.parquet -> 1.2 MB en 1.3s
+2026-06-25 19:48:59,037 [INFO] [DOWN] Descargando: green_tripdata_2025-10.parquet
+2026-06-25 19:48:59,287 [INFO] [OK]   green_tripdata_2025-07.parquet -> 1.1 MB en 1.3s
+2026-06-25 19:48:59,290 [INFO] [DOWN] Descargando: green_tripdata_2025-11.parquet
+2026-06-25 19:48:59,565 [INFO] [OK]   green_tripdata_2025-08.parquet -> 1.1 MB en 1.2s
+2026-06-25 19:48:59,568 [INFO] [DOWN] Descargando: green_tripdata_2025-12.parquet
+2026-06-25 19:49:00,281 [INFO] [OK]   green_tripdata_2025-09.parquet -> 1.2 MB en 1.3s
+2026-06-25 19:49:00,490 [INFO] [OK]   green_tripdata_2025-11.parquet -> 1.1 MB en 1.2s
+2026-06-25 19:49:00,497 [INFO] [OK]   green_tripdata_2025-10.parquet -> 1.1 MB en 1.5s
+2026-06-25 19:49:01,322 [INFO] [OK]   green_tripdata_2025-12.parquet -> 1.1 MB en 1.8s
+2026-06-25 19:49:01,325 [INFO] ==================================================
+2026-06-25 19:49:01,325 [INFO]   OK:          36
+2026-06-25 19:49:01,325 [INFO]   Ya existian: 0
+2026-06-25 19:49:01,325 [INFO]   No publicados: 0
+2026-06-25 19:49:01,325 [INFO]   Timeouts:    0
+2026-06-25 19:49:01,325 [INFO]   Errores:     0
+2026-06-25 19:49:01,326 [INFO]   Total MB:    46.7
+2026-06-25 19:49:01,326 [INFO] ==================================================

@@ -1,0 +1,40 @@
+2026-06-25 20:19:08,657 [INFO] Anos a descargar: [2023, 2024, 2025]
+2026-06-25 20:19:08,658 [INFO] Tipos: ['fhvhv']
+2026-06-25 20:19:08,658 [INFO] Destino: /home/jovyan/data/bronze
+2026-06-25 20:19:08,658 [INFO] Total archivos a procesar: 36
+2026-06-25 20:19:08,686 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-02.parquet
+2026-06-25 20:19:08,687 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-04.parquet
+2026-06-25 20:19:08,687 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-03.parquet
+2026-06-25 20:19:08,688 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-01.parquet
+2026-06-25 20:24:44,505 [INFO] [OK]   fhvhv_tripdata_2023-01.parquet -> 451.9 MB en 335.8s
+2026-06-25 20:24:44,581 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-05.parquet
+2026-06-25 20:24:47,152 [INFO] [OK]   fhvhv_tripdata_2023-02.parquet -> 437.6 MB en 338.5s
+2026-06-25 20:24:47,185 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-06.parquet
+2026-06-25 20:24:49,085 [INFO] [OK]   fhvhv_tripdata_2023-04.parquet -> 469.0 MB en 340.4s
+2026-06-25 20:24:49,116 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-07.parquet
+2026-06-25 20:24:49,341 [INFO] [OK]   fhvhv_tripdata_2023-03.parquet -> 498.3 MB en 340.6s
+2026-06-25 20:24:49,358 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-08.parquet
+2026-06-25 20:30:22,713 [INFO] [OK]   fhvhv_tripdata_2023-07.parquet -> 469.5 MB en 333.0s
+2026-06-25 20:30:24,203 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-09.parquet
+2026-06-25 20:30:27,947 [INFO] [OK]   fhvhv_tripdata_2023-08.parquet -> 429.4 MB en 338.6s
+2026-06-25 20:30:27,955 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-10.parquet
+2026-06-25 20:30:30,403 [INFO] [OK]   fhvhv_tripdata_2023-05.parquet -> 489.3 MB en 345.8s
+2026-06-25 20:30:30,410 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-11.parquet
+2026-06-25 20:31:01,845 [INFO] [OK]   fhvhv_tripdata_2023-06.parquet -> 475.7 MB en 374.7s
+2026-06-25 20:31:01,860 [INFO] [DOWN] Descargando: fhvhv_tripdata_2023-12.parquet
+2026-06-25 20:36:15,091 [INFO] [OK]   fhvhv_tripdata_2023-10.parquet -> 463.3 MB en 347.1s
+2026-06-25 20:36:15,145 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-01.parquet
+2026-06-25 20:36:21,755 [INFO] [OK]   fhvhv_tripdata_2023-11.parquet -> 443.4 MB en 351.3s
+2026-06-25 20:36:21,780 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-02.parquet
+2026-06-25 20:36:31,633 [INFO] [OK]   fhvhv_tripdata_2023-09.parquet -> 455.9 MB en 367.4s
+2026-06-25 20:36:31,650 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-03.parquet
+2026-06-25 20:36:59,301 [INFO] [OK]   fhvhv_tripdata_2023-12.parquet -> 467.7 MB en 357.4s
+2026-06-25 20:36:59,349 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-04.parquet
+2026-06-25 20:37:50,899 [ERROR] [ERROR] fhvhv_tripdata_2024-03.parquet: ('Connection broken: IncompleteRead(110345364 bytes read, 397595196 more expected)', IncompleteRead(110345364 bytes read, 397595196 more expected))
+2026-06-25 20:37:50,918 [ERROR] [ERROR] fhvhv_tripdata_2024-04.parquet: ('Connection broken: IncompleteRead(57300247 bytes read, 418815396 more expected)', IncompleteRead(57300247 bytes read, 418815396 more expected))
+2026-06-25 20:37:50,937 [ERROR] [ERROR] fhvhv_tripdata_2024-01.parquet: ('Connection broken: IncompleteRead(124765223 bytes read, 347992324 more expected)', IncompleteRead(124765223 bytes read, 347992324 more expected))
+2026-06-25 20:37:50,971 [ERROR] [ERROR] fhvhv_tripdata_2024-02.parquet: ('Connection broken: IncompleteRead(139956093 bytes read, 322519335 more expected)', IncompleteRead(139956093 bytes read, 322519335 more expected))
+2026-06-25 20:37:51,172 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-05.parquet
+2026-06-25 20:37:51,184 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-08.parquet
+2026-06-25 20:37:51,185 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-07.parquet
+2026-06-25 20:37:51,192 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-06.parquet

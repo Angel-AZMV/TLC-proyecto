@@ -1,0 +1,68 @@
+2026-06-25 20:49:25,547 [INFO] Anos a descargar: [2023, 2024, 2025]
+2026-06-25 20:49:25,547 [INFO] Tipos: ['fhvhv']
+2026-06-25 20:49:25,547 [INFO] Destino: /home/jovyan/data/bronze
+2026-06-25 20:49:25,548 [INFO] Total archivos a procesar: 36
+2026-06-25 20:49:25,550 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-01.parquet
+2026-06-25 20:49:25,551 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-02.parquet
+2026-06-25 20:49:25,551 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-03.parquet
+2026-06-25 20:49:25,554 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-04.parquet
+2026-06-25 20:49:25,554 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-06.parquet
+2026-06-25 20:49:25,554 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-05.parquet
+2026-06-25 20:49:25,555 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-07.parquet
+2026-06-25 20:49:25,556 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-08.parquet
+2026-06-25 20:49:25,556 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-09.parquet
+2026-06-25 20:49:25,557 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-10.parquet
+2026-06-25 20:49:25,558 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-11.parquet
+2026-06-25 20:49:25,558 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-12.parquet
+2026-06-25 20:49:25,559 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-01.parquet
+2026-06-25 20:49:25,559 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-02.parquet
+2026-06-25 20:49:25,560 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-04.parquet
+2026-06-25 20:49:25,561 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-03.parquet
+2026-06-25 20:55:18,352 [INFO] [OK]   fhvhv_tripdata_2024-04.parquet -> 454.1 MB en 352.8s
+2026-06-25 20:55:18,459 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-05.parquet
+2026-06-25 20:55:18,463 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-06.parquet
+2026-06-25 20:55:18,465 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-07.parquet
+2026-06-25 20:55:18,468 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-08.parquet
+2026-06-25 20:55:18,475 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-09.parquet
+2026-06-25 20:55:19,033 [INFO] [OK]   fhvhv_tripdata_2024-03.parquet -> 484.4 MB en 353.5s
+2026-06-25 20:55:19,063 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-10.parquet
+2026-06-25 20:55:43,194 [INFO] [OK]   fhvhv_tripdata_2024-02.parquet -> 441.1 MB en 377.6s
+2026-06-25 20:55:43,224 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-11.parquet
+2026-06-25 20:55:52,287 [INFO] [OK]   fhvhv_tripdata_2024-01.parquet -> 450.9 MB en 386.7s
+2026-06-25 20:55:52,310 [INFO] [DOWN] Descargando: fhvhv_tripdata_2024-12.parquet
+2026-06-25 21:00:37,621 [INFO] [OK]   fhvhv_tripdata_2024-09.parquet -> 444.9 MB en 319.1s
+2026-06-25 21:00:37,683 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-01.parquet
+2026-06-25 21:00:52,569 [INFO] [OK]   fhvhv_tripdata_2024-10.parquet -> 462.6 MB en 333.5s
+2026-06-25 21:00:52,597 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-02.parquet
+2026-06-25 21:01:04,971 [INFO] [OK]   fhvhv_tripdata_2024-11.parquet -> 458.0 MB en 321.7s
+2026-06-25 21:01:04,990 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-03.parquet
+2026-06-25 21:01:51,058 [INFO] [OK]   fhvhv_tripdata_2024-12.parquet -> 484.0 MB en 358.7s
+2026-06-25 21:01:51,110 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-04.parquet
+2026-06-25 21:05:49,374 [INFO] [OK]   fhvhv_tripdata_2025-01.parquet -> 468.3 MB en 311.7s
+2026-06-25 21:05:49,379 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-05.parquet
+2026-06-25 21:05:52,000 [INFO] [OK]   fhvhv_tripdata_2025-02.parquet -> 440.2 MB en 299.4s
+2026-06-25 21:05:52,006 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-06.parquet
+2026-06-25 21:06:32,993 [INFO] [OK]   fhvhv_tripdata_2025-03.parquet -> 478.5 MB en 328.0s
+2026-06-25 21:06:33,004 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-07.parquet
+2026-06-25 21:06:56,840 [INFO] [OK]   fhvhv_tripdata_2025-04.parquet -> 464.6 MB en 305.7s
+2026-06-25 21:06:56,855 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-08.parquet
+2026-06-25 21:11:10,817 [INFO] [OK]   fhvhv_tripdata_2025-08.parquet -> 457.4 MB en 254.0s
+2026-06-25 21:11:10,821 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-09.parquet
+2026-06-25 21:11:23,096 [INFO] [OK]   fhvhv_tripdata_2025-06.parquet -> 468.1 MB en 331.1s
+2026-06-25 21:11:23,102 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-10.parquet
+2026-06-25 21:12:02,781 [INFO] [OK]   fhvhv_tripdata_2025-07.parquet -> 464.7 MB en 329.8s
+2026-06-25 21:12:02,785 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-11.parquet
+2026-06-25 21:12:24,588 [INFO] [OK]   fhvhv_tripdata_2025-05.parquet -> 493.4 MB en 395.2s
+2026-06-25 21:12:24,592 [INFO] [DOWN] Descargando: fhvhv_tripdata_2025-12.parquet
+2026-06-25 21:16:42,034 [INFO] [OK]   fhvhv_tripdata_2025-09.parquet -> 458.6 MB en 331.2s
+2026-06-25 21:17:12,710 [INFO] [OK]   fhvhv_tripdata_2025-10.parquet -> 494.5 MB en 349.6s
+2026-06-25 21:17:17,658 [INFO] [OK]   fhvhv_tripdata_2025-11.parquet -> 484.0 MB en 314.9s
+2026-06-25 21:17:36,962 [INFO] [OK]   fhvhv_tripdata_2025-12.parquet -> 510.9 MB en 312.4s
+2026-06-25 21:17:36,975 [INFO] ==================================================
+2026-06-25 21:17:36,976 [INFO]   OK:          20
+2026-06-25 21:17:36,976 [INFO]   Ya existian: 16
+2026-06-25 21:17:36,977 [INFO]   No publicados: 0
+2026-06-25 21:17:36,977 [INFO]   Timeouts:    0
+2026-06-25 21:17:36,977 [INFO]   Errores:     0
+2026-06-25 21:17:36,977 [INFO]   Total MB:    9363.1
+2026-06-25 21:17:36,977 [INFO] ==================================================

@@ -1,0 +1,170 @@
+2026-07-17 18:58:57,965 [INFO] Anos a descargar: [2023, 2024, 2025, 2026]
+2026-07-17 18:58:57,965 [INFO] Tipos: ['yellow', 'green', 'fhv', 'fhvhv']
+2026-07-17 18:58:57,965 [INFO] Destino: /home/jovyan/data/bronze
+2026-07-17 18:58:57,966 [INFO] Total archivos a procesar: 164
+2026-07-17 18:58:57,968 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-01.parquet
+2026-07-17 18:58:57,968 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-01.parquet
+2026-07-17 18:58:57,969 [INFO] [SKIP] Ya existe: green_tripdata_2023-01.parquet
+2026-07-17 18:58:57,969 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-01.parquet
+2026-07-17 18:58:57,971 [INFO] [SKIP] Ya existe: green_tripdata_2023-02.parquet
+2026-07-17 18:58:57,971 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-02.parquet
+2026-07-17 18:58:57,972 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-02.parquet
+2026-07-17 18:58:57,972 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-02.parquet
+2026-07-17 18:58:57,972 [INFO] [SKIP] Ya existe: green_tripdata_2023-03.parquet
+2026-07-17 18:58:57,972 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-03.parquet
+2026-07-17 18:58:57,973 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-03.parquet
+2026-07-17 18:58:57,973 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-04.parquet
+2026-07-17 18:58:57,974 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-03.parquet
+2026-07-17 18:58:57,974 [INFO] [SKIP] Ya existe: green_tripdata_2023-04.parquet
+2026-07-17 18:58:57,975 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-04.parquet
+2026-07-17 18:58:57,975 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-04.parquet
+2026-07-17 18:58:57,976 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-05.parquet
+2026-07-17 18:58:57,976 [INFO] [SKIP] Ya existe: green_tripdata_2023-05.parquet
+2026-07-17 18:58:57,977 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-05.parquet
+2026-07-17 18:58:57,977 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-06.parquet
+2026-07-17 18:58:57,978 [INFO] [SKIP] Ya existe: green_tripdata_2023-06.parquet
+2026-07-17 18:58:57,978 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-06.parquet
+2026-07-17 18:58:57,978 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-05.parquet
+2026-07-17 18:58:57,979 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-06.parquet
+2026-07-17 18:58:57,979 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-07.parquet
+2026-07-17 18:58:57,979 [INFO] [SKIP] Ya existe: green_tripdata_2023-07.parquet
+2026-07-17 18:58:57,980 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-07.parquet
+2026-07-17 18:58:57,980 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-07.parquet
+2026-07-17 18:58:57,980 [INFO] [SKIP] Ya existe: green_tripdata_2023-08.parquet
+2026-07-17 18:58:57,981 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-08.parquet
+2026-07-17 18:58:57,981 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-08.parquet
+2026-07-17 18:58:57,981 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-08.parquet
+2026-07-17 18:58:57,981 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-09.parquet
+2026-07-17 18:58:57,982 [INFO] [SKIP] Ya existe: green_tripdata_2023-09.parquet
+2026-07-17 18:58:57,982 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-09.parquet
+2026-07-17 18:58:57,983 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-09.parquet
+2026-07-17 18:58:57,984 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-10.parquet
+2026-07-17 18:58:57,984 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-10.parquet
+2026-07-17 18:58:57,984 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-10.parquet
+2026-07-17 18:58:57,984 [INFO] [SKIP] Ya existe: green_tripdata_2023-10.parquet
+2026-07-17 18:58:57,985 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-11.parquet
+2026-07-17 18:58:57,985 [INFO] [SKIP] Ya existe: green_tripdata_2023-11.parquet
+2026-07-17 18:58:57,986 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-11.parquet
+2026-07-17 18:58:57,986 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-11.parquet
+2026-07-17 18:58:57,986 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-12.parquet
+2026-07-17 18:58:57,987 [INFO] [SKIP] Ya existe: green_tripdata_2023-12.parquet
+2026-07-17 18:58:57,987 [INFO] [SKIP] Ya existe: fhv_tripdata_2023-12.parquet
+2026-07-17 18:58:57,988 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2023-12.parquet
+2026-07-17 18:58:57,988 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-01.parquet
+2026-07-17 18:58:57,989 [INFO] [SKIP] Ya existe: green_tripdata_2024-01.parquet
+2026-07-17 18:58:57,989 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-01.parquet
+2026-07-17 18:58:57,989 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-01.parquet
+2026-07-17 18:58:57,990 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-02.parquet
+2026-07-17 18:58:57,990 [INFO] [SKIP] Ya existe: green_tripdata_2024-02.parquet
+2026-07-17 18:58:57,991 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-02.parquet
+2026-07-17 18:58:57,991 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-02.parquet
+2026-07-17 18:58:57,991 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-03.parquet
+2026-07-17 18:58:57,992 [INFO] [SKIP] Ya existe: green_tripdata_2024-03.parquet
+2026-07-17 18:58:57,992 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-03.parquet
+2026-07-17 18:58:57,992 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-03.parquet
+2026-07-17 18:58:57,993 [INFO] [SKIP] Ya existe: green_tripdata_2024-04.parquet
+2026-07-17 18:58:57,993 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-04.parquet
+2026-07-17 18:58:57,994 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-04.parquet
+2026-07-17 18:58:57,994 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-04.parquet
+2026-07-17 18:58:57,995 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-05.parquet
+2026-07-17 18:58:57,995 [INFO] [SKIP] Ya existe: green_tripdata_2024-05.parquet
+2026-07-17 18:58:57,995 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-05.parquet
+2026-07-17 18:58:57,995 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-05.parquet
+2026-07-17 18:58:57,996 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-06.parquet
+2026-07-17 18:58:57,996 [INFO] [SKIP] Ya existe: green_tripdata_2024-06.parquet
+2026-07-17 18:58:57,996 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-06.parquet
+2026-07-17 18:58:57,997 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-06.parquet
+2026-07-17 18:58:57,997 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-07.parquet
+2026-07-17 18:58:57,997 [INFO] [SKIP] Ya existe: green_tripdata_2024-07.parquet
+2026-07-17 18:58:57,998 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-07.parquet
+2026-07-17 18:58:57,998 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-07.parquet
+2026-07-17 18:58:57,998 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-08.parquet
+2026-07-17 18:58:57,999 [INFO] [SKIP] Ya existe: green_tripdata_2024-08.parquet
+2026-07-17 18:58:57,999 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-08.parquet
+2026-07-17 18:58:58,000 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-08.parquet
+2026-07-17 18:58:58,000 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-09.parquet
+2026-07-17 18:58:58,000 [INFO] [SKIP] Ya existe: green_tripdata_2024-09.parquet
+2026-07-17 18:58:58,001 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-09.parquet
+2026-07-17 18:58:58,001 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-09.parquet
+2026-07-17 18:58:58,001 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-10.parquet
+2026-07-17 18:58:58,002 [INFO] [SKIP] Ya existe: green_tripdata_2024-10.parquet
+2026-07-17 18:58:58,002 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-10.parquet
+2026-07-17 18:58:58,003 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-11.parquet
+2026-07-17 18:58:58,003 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-10.parquet
+2026-07-17 18:58:58,004 [INFO] [SKIP] Ya existe: green_tripdata_2024-11.parquet
+2026-07-17 18:58:58,004 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-11.parquet
+2026-07-17 18:58:58,004 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-11.parquet
+2026-07-17 18:58:58,005 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-12.parquet
+2026-07-17 18:58:58,005 [INFO] [SKIP] Ya existe: green_tripdata_2024-12.parquet
+2026-07-17 18:58:58,006 [INFO] [SKIP] Ya existe: fhv_tripdata_2024-12.parquet
+2026-07-17 18:58:58,006 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2024-12.parquet
+2026-07-17 18:58:58,007 [INFO] [SKIP] Ya existe: green_tripdata_2025-01.parquet
+2026-07-17 18:58:58,007 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-01.parquet
+2026-07-17 18:58:58,007 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-01.parquet
+2026-07-17 18:58:58,008 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-01.parquet
+2026-07-17 18:58:58,008 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-02.parquet
+2026-07-17 18:58:58,008 [INFO] [SKIP] Ya existe: green_tripdata_2025-02.parquet
+2026-07-17 18:58:58,008 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-02.parquet
+2026-07-17 18:58:58,009 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-03.parquet
+2026-07-17 18:58:58,009 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-02.parquet
+2026-07-17 18:58:58,009 [INFO] [SKIP] Ya existe: green_tripdata_2025-03.parquet
+2026-07-17 18:58:58,010 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-03.parquet
+2026-07-17 18:58:58,010 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-03.parquet
+2026-07-17 18:58:58,011 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-04.parquet
+2026-07-17 18:58:58,011 [INFO] [SKIP] Ya existe: green_tripdata_2025-04.parquet
+2026-07-17 18:58:58,011 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-04.parquet
+2026-07-17 18:58:58,012 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-04.parquet
+2026-07-17 18:58:58,012 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-05.parquet
+2026-07-17 18:58:58,013 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-05.parquet
+2026-07-17 18:58:58,013 [INFO] [SKIP] Ya existe: green_tripdata_2025-05.parquet
+2026-07-17 18:58:58,013 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-05.parquet
+2026-07-17 18:58:58,014 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-06.parquet
+2026-07-17 18:58:58,014 [INFO] [SKIP] Ya existe: green_tripdata_2025-06.parquet
+2026-07-17 18:58:58,014 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-06.parquet
+2026-07-17 18:58:58,014 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-06.parquet
+2026-07-17 18:58:58,015 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-07.parquet
+2026-07-17 18:58:58,015 [INFO] [SKIP] Ya existe: green_tripdata_2025-07.parquet
+2026-07-17 18:58:58,015 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-07.parquet
+2026-07-17 18:58:58,016 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-07.parquet
+2026-07-17 18:58:58,016 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-08.parquet
+2026-07-17 18:58:58,017 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-08.parquet
+2026-07-17 18:58:58,017 [INFO] [SKIP] Ya existe: green_tripdata_2025-08.parquet
+2026-07-17 18:58:58,017 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-08.parquet
+2026-07-17 18:58:58,018 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-09.parquet
+2026-07-17 18:58:58,018 [INFO] [SKIP] Ya existe: green_tripdata_2025-09.parquet
+2026-07-17 18:58:58,018 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-09.parquet
+2026-07-17 18:58:58,019 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-09.parquet
+2026-07-17 18:58:58,019 [INFO] [SKIP] Ya existe: green_tripdata_2025-10.parquet
+2026-07-17 18:58:58,019 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-10.parquet
+2026-07-17 18:58:58,020 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-10.parquet
+2026-07-17 18:58:58,020 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-10.parquet
+2026-07-17 18:58:58,020 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-11.parquet
+2026-07-17 18:58:58,021 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-11.parquet
+2026-07-17 18:58:58,021 [INFO] [SKIP] Ya existe: green_tripdata_2025-11.parquet
+2026-07-17 18:58:58,021 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-11.parquet
+2026-07-17 18:58:58,022 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-12.parquet
+2026-07-17 18:58:58,022 [INFO] [SKIP] Ya existe: green_tripdata_2025-12.parquet
+2026-07-17 18:58:58,023 [INFO] [SKIP] Ya existe: fhv_tripdata_2025-12.parquet
+2026-07-17 18:58:58,023 [INFO] [SKIP] Ya existe: fhvhv_tripdata_2025-12.parquet
+2026-07-17 18:58:58,029 [INFO] [DOWN] Descargando: yellow_tripdata_2026-01.parquet
+2026-07-17 18:58:58,029 [INFO] [DOWN] Descargando: fhv_tripdata_2026-01.parquet
+2026-07-17 18:58:58,030 [INFO] [DOWN] Descargando: fhvhv_tripdata_2026-01.parquet
+2026-07-17 18:58:58,031 [INFO] [DOWN] Descargando: green_tripdata_2026-01.parquet
+2026-07-17 18:58:59,288 [INFO] [OK]   green_tripdata_2026-01.parquet -> 0.9 MB en 1.3s
+2026-07-17 18:58:59,291 [INFO] [DOWN] Descargando: yellow_tripdata_2026-02.parquet
+2026-07-17 18:59:13,986 [INFO] [OK]   fhv_tripdata_2026-01.parquet -> 20.6 MB en 16.0s
+2026-07-17 18:59:13,987 [INFO] [DOWN] Descargando: green_tripdata_2026-02.parquet
+2026-07-17 18:59:14,279 [INFO] [OK]   green_tripdata_2026-02.parquet -> 0.9 MB en 0.3s
+2026-07-17 18:59:14,281 [INFO] [DOWN] Descargando: fhv_tripdata_2026-02.parquet
+2026-07-17 18:59:25,267 [INFO] [OK]   fhv_tripdata_2026-02.parquet -> 19.9 MB en 11.0s
+2026-07-17 18:59:25,273 [INFO] [DOWN] Descargando: fhvhv_tripdata_2026-02.parquet
+2026-07-17 18:59:35,887 [INFO] [OK]   yellow_tripdata_2026-01.parquet -> 61.2 MB en 37.9s
+2026-07-17 18:59:35,888 [INFO] [DOWN] Descargando: yellow_tripdata_2026-03.parquet
+2026-07-17 18:59:44,173 [INFO] [OK]   yellow_tripdata_2026-02.parquet -> 56.0 MB en 44.9s
+2026-07-17 18:59:44,174 [INFO] [DOWN] Descargando: green_tripdata_2026-03.parquet
+2026-07-17 18:59:44,977 [INFO] [OK]   green_tripdata_2026-03.parquet -> 1.0 MB en 0.8s
+2026-07-17 18:59:44,982 [INFO] [DOWN] Descargando: fhv_tripdata_2026-03.parquet
+2026-07-17 18:59:58,472 [INFO] [OK]   fhv_tripdata_2026-03.parquet -> 24.4 MB en 13.5s
+2026-07-17 18:59:58,474 [INFO] [DOWN] Descargando: fhvhv_tripdata_2026-03.parquet
+2026-07-17 19:00:19,082 [INFO] [OK]   yellow_tripdata_2026-03.parquet -> 64.7 MB en 43.2s
+2026-07-17 19:00:19,091 [INFO] [DOWN] Descargando: yellow_tripdata_2026-04.parquet

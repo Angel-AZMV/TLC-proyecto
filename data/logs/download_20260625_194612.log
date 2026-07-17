@@ -1,0 +1,51 @@
+2026-06-25 19:46:12,187 [INFO] Anos a descargar: [2023, 2024, 2025]
+2026-06-25 19:46:12,187 [INFO] Tipos: ['yellow']
+2026-06-25 19:46:12,187 [INFO] Destino: /home/jovyan/data/bronze
+2026-06-25 19:46:12,187 [INFO] Total archivos a procesar: 36
+2026-06-25 19:46:12,190 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-01.parquet
+2026-06-25 19:46:12,190 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-02.parquet
+2026-06-25 19:46:12,191 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-03.parquet
+2026-06-25 19:46:12,193 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-04.parquet
+2026-06-25 19:46:12,194 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-06.parquet
+2026-06-25 19:46:12,194 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-05.parquet
+2026-06-25 19:46:12,195 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-07.parquet
+2026-06-25 19:46:12,196 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-08.parquet
+2026-06-25 19:46:12,196 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-09.parquet
+2026-06-25 19:46:12,197 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-10.parquet
+2026-06-25 19:46:12,197 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-12.parquet
+2026-06-25 19:46:12,198 [INFO] [SKIP] Ya existe: yellow_tripdata_2023-11.parquet
+2026-06-25 19:46:12,198 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-01.parquet
+2026-06-25 19:46:12,199 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-02.parquet
+2026-06-25 19:46:12,199 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-03.parquet
+2026-06-25 19:46:12,200 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-04.parquet
+2026-06-25 19:46:12,201 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-06.parquet
+2026-06-25 19:46:12,201 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-05.parquet
+2026-06-25 19:46:12,201 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-07.parquet
+2026-06-25 19:46:12,202 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-08.parquet
+2026-06-25 19:46:12,203 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-10.parquet
+2026-06-25 19:46:12,203 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-09.parquet
+2026-06-25 19:46:12,203 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-11.parquet
+2026-06-25 19:46:12,203 [INFO] [SKIP] Ya existe: yellow_tripdata_2024-12.parquet
+2026-06-25 19:46:12,205 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-01.parquet
+2026-06-25 19:46:12,205 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-03.parquet
+2026-06-25 19:46:12,206 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-04.parquet
+2026-06-25 19:46:12,206 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-02.parquet
+2026-06-25 19:46:12,207 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-06.parquet
+2026-06-25 19:46:12,207 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-07.parquet
+2026-06-25 19:46:12,208 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-05.parquet
+2026-06-25 19:46:12,208 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-08.parquet
+2026-06-25 19:46:12,209 [INFO] [SKIP] Ya existe: yellow_tripdata_2025-09.parquet
+2026-06-25 19:46:12,210 [INFO] [DOWN] Descargando: yellow_tripdata_2025-10.parquet
+2026-06-25 19:46:12,211 [INFO] [DOWN] Descargando: yellow_tripdata_2025-12.parquet
+2026-06-25 19:46:12,211 [INFO] [DOWN] Descargando: yellow_tripdata_2025-11.parquet
+2026-06-25 19:46:45,137 [INFO] [OK]   yellow_tripdata_2025-12.parquet -> 70.3 MB en 32.9s
+2026-06-25 19:46:48,458 [INFO] [OK]   yellow_tripdata_2025-10.parquet -> 71.8 MB en 36.2s
+2026-06-25 19:46:49,745 [INFO] [OK]   yellow_tripdata_2025-11.parquet -> 67.8 MB en 37.5s
+2026-06-25 19:46:49,748 [INFO] ==================================================
+2026-06-25 19:46:49,748 [INFO]   OK:          3
+2026-06-25 19:46:49,748 [INFO]   Ya existian: 33
+2026-06-25 19:46:49,748 [INFO]   No publicados: 0
+2026-06-25 19:46:49,748 [INFO]   Timeouts:    0
+2026-06-25 19:46:49,748 [INFO]   Errores:     0
+2026-06-25 19:46:49,749 [INFO]   Total MB:    209.9
+2026-06-25 19:46:49,749 [INFO] ==================================================
