@@ -168,3 +168,29 @@
 2026-07-17 18:59:58,474 [INFO] [DOWN] Descargando: fhvhv_tripdata_2026-03.parquet
 2026-07-17 19:00:19,082 [INFO] [OK]   yellow_tripdata_2026-03.parquet -> 64.7 MB en 43.2s
 2026-07-17 19:00:19,091 [INFO] [DOWN] Descargando: yellow_tripdata_2026-04.parquet
+2026-07-17 19:01:00,150 [INFO] [OK]   yellow_tripdata_2026-04.parquet -> 61.8 MB en 41.1s
+2026-07-17 19:01:00,151 [INFO] [DOWN] Descargando: green_tripdata_2026-04.parquet
+2026-07-17 19:01:00,594 [INFO] [OK]   green_tripdata_2026-04.parquet -> 1.0 MB en 0.4s
+2026-07-17 19:01:00,596 [INFO] [DOWN] Descargando: fhv_tripdata_2026-04.parquet
+2026-07-17 19:01:11,726 [INFO] [OK]   fhv_tripdata_2026-04.parquet -> 22.1 MB en 11.1s
+2026-07-17 19:01:11,730 [INFO] [DOWN] Descargando: fhvhv_tripdata_2026-04.parquet
+2026-07-17 19:04:08,443 [INFO] [OK]   fhvhv_tripdata_2026-01.parquet -> 482.4 MB en 310.4s
+2026-07-17 19:04:08,445 [INFO] [DOWN] Descargando: yellow_tripdata_2026-05.parquet
+2026-07-17 19:04:08,738 [INFO] [OK]   fhvhv_tripdata_2026-02.parquet -> 454.7 MB en 283.5s
+2026-07-17 19:04:08,741 [INFO] [DOWN] Descargando: green_tripdata_2026-05.parquet
+2026-07-17 19:04:10,770 [INFO] [OK]   green_tripdata_2026-05.parquet -> 1.1 MB en 2.0s
+2026-07-17 19:04:10,773 [INFO] [DOWN] Descargando: fhv_tripdata_2026-05.parquet
+2026-07-17 19:04:11,437 [ERROR] [ERROR] fhv_tripdata_2026-05.parquet: 403 Client Error: Forbidden for url: https://d37ci6vzurychx.cloudfront.net/trip-data/fhv_tripdata_2026-05.parquet
+2026-07-17 19:04:11,440 [INFO] [DOWN] Descargando: fhvhv_tripdata_2026-05.parquet
+2026-07-17 19:05:08,940 [INFO] [OK]   yellow_tripdata_2026-05.parquet -> 66.5 MB en 60.5s
+2026-07-17 19:05:57,609 [INFO] [OK]   fhvhv_tripdata_2026-04.parquet -> 486.2 MB en 285.9s
+2026-07-17 19:06:22,129 [INFO] [OK]   fhvhv_tripdata_2026-03.parquet -> 507.9 MB en 383.7s
+2026-07-17 19:07:06,676 [INFO] [OK]   fhvhv_tripdata_2026-05.parquet -> 512.7 MB en 175.2s
+2026-07-17 19:07:06,680 [INFO] ==================================================
+2026-07-17 19:07:06,681 [INFO]   OK:          19
+2026-07-17 19:07:06,681 [INFO]   Ya existian: 144
+2026-07-17 19:07:06,681 [INFO]   No publicados: 0
+2026-07-17 19:07:06,681 [INFO]   Timeouts:    0
+2026-07-17 19:07:06,681 [INFO]   Errores:     1
+2026-07-17 19:07:06,681 [INFO]   Total MB:    2846.1
+2026-07-17 19:07:06,682 [INFO] ==================================================
